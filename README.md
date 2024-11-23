@@ -42,4 +42,55 @@ A user-friendly design in a booking system is crucial for ensuring an efficient 
 Future Growth: A clean and organized design makes it easier to update and scale the system as needs evolve.
 Integration with Other Tools: User-friendly systems are often easier to integrate with third-party services, enhancing their utility.
 
+# color styles
+1. Color Styles
+Airbnb’s color scheme is carefully curated to evoke warmth, trust, and simplicity. The key colors used include:
 
+Primary Colors:
+
+Airbnb Pink (#FF5A5F): The signature color, used for call-to-action buttons and highlights.
+Airbnb White (#FFFFFF): A clean, minimalistic background for most of the UI.
+Secondary Colors:
+
+Gray Shades:
+Light Gray for borders and dividers.
+Darker Gray for text, such as subtitles and descriptions.
+Black (#000000): Used sparingly for high-contrast text (e.g., headlines).
+Muted Colors: Occasional use of muted greens, blues, and yellows for icons or tags.
+Feedback Colors:
+
+Green (#008489): For positive actions or success messages.
+Red (#FF0000): For errors or warnings.
+Neutral Backgrounds:
+
+Off-whites and very light grays are used to separate sections subtly.
+2. Typography
+Airbnb uses custom typography to enhance readability and create a distinctive brand identity.
+
+Primary Typeface:
+
+Cereal: Airbnb’s proprietary sans-serif font. It's clean, modern, and highly legible, designed to work across digital and print mediums.
+Typography Styles:
+
+Headlines:
+Bold and large font sizes to grab attention.
+Typically in black or very dark gray.
+Subheadings:
+Medium weight with slightly smaller font sizes.
+Used for subtitles and sections.
+Body Text:
+Regular weight, light gray or black, optimized for readability.
+Links and CTAs:
+Often bold and in Airbnb Pink or another attention-grabbing color.
+Font Sizes:
+
+Large: For headlines and hero sections.
+Medium: For subheadings and key information.
+Small: For captions, disclaimers, and fine print.
+Alignment:
+
+Text is often left-aligned for readability.
+Center-aligned text is occasionally used for emphasis in hero sections.
+
+Importance of projects
+Identifying the design properties of a mockup design is a critical step in the design and development process. These properties play a significant role in ensuring that the final product meets user needs, adheres to project goals, and aligns with technical and aesthetic standards.
