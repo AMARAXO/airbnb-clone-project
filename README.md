@@ -167,3 +167,92 @@ Remove impediments that hinder the team’s progress.
 Foster a collaborative and productive team environment.
 Coach the team on Agile principles and practices.
 Ensure continuous improvement within the team.
+
+# UI Component Patterns
+1. Navbar (Navigation Bar)
+The Navbar provides a clean and intuitive way for users to navigate through the platform.
+Features:
+Logo: Displays the Airbnb logo or clone branding, linking to the homepage.
+Search Bar: A central search bar with input fields for destination, dates, and guests.
+Navigation Links:
+Options like "Stays," "Experiences," "Online Experiences."
+A dropdown menu for account options such as "Login," "Signup," or "Profile."
+Responsive Design:
+Collapses into a hamburger menu on smaller screens for mobile users.
+CTA (Call to Action):
+Buttons like "Become a Host" or "Sign Up."
+Technology:
+React for dynamic behavior (e.g., toggling menus).
+CSS or TailwindCSS for styling.
+Accessibility-focused with keyboard navigation support.
+
+2. Property Card
+The Property Card is used to display property details in a grid or list view.
+Features:
+Image Section:
+A responsive, high-resolution image of the property.
+Hover effects for better user engagement.
+Text Section:
+Property title (e.g., "Cozy Apartment in Downtown").
+Short description of the property type and location.
+Pricing information (e.g., "$120 per night").
+Ratings:
+A star-rating system with the number of reviews.
+Action Button:
+"Book Now" or "Learn More" to view more details.
+Technology:
+Reusable Component: Built with React for easy scalability.
+Lazy Loading: For images to optimize performance.
+CSS Grid or Flexbox: To align cards in a neat layout.
+
+3. Footer
+The Footer provides supplementary navigation and platform information.
+Features:
+Sectioned Layout:
+About: Links like "How Airbnb works," "Careers," or "Investors."
+Support: Links to "Help Center" or "Cancellation Policy."
+Community: Highlight initiatives like "Airbnb.org."
+Legal: Links to "Terms & Conditions," "Privacy Policy."
+Language & Currency Selector:
+Dropdowns to select preferred language and currency.
+Social Media Icons:
+Links to Airbnb's social media profiles.
+Copyright Notice:
+A simple "© 2024 Airbnb Clone" line.
+Technology:
+React Functional Components for sections.
+Flexbox/Grid for styling the layout.
+Mobile-first design for responsiveness.
+
+4. Hero Section
+A large, visually appealing section at the top of the homepage.
+Features:
+Background Image or Carousel:
+Displays featured destinations or experiences.
+Headline and Subtext:
+Encourages exploration, e.g., "Find your next adventure."
+Search Bar:
+Destination, check-in/out, and guest fields.
+
+5. Filters Sidebar
+A collapsible sidebar for refining search results.
+Features:
+Price range slider.
+Property type checkboxes (e.g., apartments, villas).
+Amenities toggles (e.g., Wi-Fi, pool).
+Apply and Reset buttons for filters.
+
+6. Booking Modal
+A popup modal for users to book a property.
+Features:
+Date picker for check-in/check-out.
+Guest selection dropdown.
+Cost breakdown with total price.
+Payment method options.
+
+7. Search Results Grid
+Displays filtered property cards based on the user's search query.
+Features:
+Responsive layout with rows or columns.
+Infinite scrolling or pagination.
+Integration with the Property Card component.
